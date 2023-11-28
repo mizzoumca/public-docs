@@ -15,14 +15,14 @@ This organization shall not discriminate on the basis of race, color, national o
 
 ### <a name="h.bz8euowqbb7q"></a>**Name**
 
-**Article 1:** 
+**Article 1:**
 
 The name of this organization will be the Mizzou Computing Association (MCA) of the University of Missouri, Columbia.
 
 ### <a name="h.ctszjs2bx1f4"></a>**Purposes**
 **Article Two:** 
 
-` `The purposes of this organization are as follows:
+``The purposes of this organization are as follows:
 
 ◦To bridge the gap between traditional education and practical Computer Science;
 
@@ -32,9 +32,9 @@ The name of this organization will be the Mizzou Computing Association (MCA) of 
 ### <a name="h.5wdcbyc8d3xc"></a>**Membership**
 **Article Three:**
 
-Section 1:  Membership shall be open to any currently enrolled student or employee of the University.
+Section 1: Membership shall be open to any currently enrolled student or employee of the University.
 
-Section 2 : Notice of non-discrimination: This organization shall not discriminate on the basis of race, color, religion, national origin, ancestry, age, gender, sexual orientation, gender identity, disability, or status as a disabled veteran or protected veteran.
+Section 2: Notice of non-discrimination: This organization shall not discriminate on the basis of race, color, religion, national origin, ancestry, age, gender, sexual orientation, gender identity, disability, or status as a disabled veteran or protected veteran.
 
 Section 3:  Any student attending the monthly organization-wide meeting will be considered a member. However, only active members who attend weekly events and are involved in at least one Special Interest Group will be allowed to vote / be voted onto the executive board, and be eligible for travel reimbursement to professional events. The MCA executive board will be voted into office by the membership as described in Article 1 of the By-laws.  
 
@@ -42,34 +42,34 @@ Section 3:  Any student attending the monthly organization-wide meeting will be 
 
 **Article Four:**
 
-Section 1:  The executive of MCA will be vested in a president, assisted by a vice-President.
+Section 1: The executive of MCA will be vested in a president, assisted by a vice-President.
 
-Section 2 : The legislative power of MCA will be vested in the MCA executive board and the other active members.
+Section 2: The legislative power of MCA will be vested in the MCA executive board and the other active members.
 
-Section 3:  The executive board will consist of the president, the vice-president, the treasurer. All members after these are optional according to the discretion of the three. 
+Section 3: The executive board will consist of the president, the vice-president, the treasurer. All members after these are optional according to the discretion of the three. 
 
 **Legislative Voting Procedures**
 
 **Article Five:**
 
-Section 1 : Amendments to this constitution may be adopted at any regular meeting by a two-thirds vote of the MCA members present, provided that notice of the proposed amendment was presented at the previous regular meeting or that the written text of the proposed amendment was placed in members mailboxes at least a week prior to the meeting at which the vote is to be taken. Amendments are subject to approval by the Organization Research Group (ORG).
+Section 1: Amendments to this constitution may be adopted at any regular meeting by a two-thirds vote of the MCA members present, provided that notice of the proposed amendment was presented at the previous regular meeting or that the written text of the proposed amendment was placed in members mailboxes at least a week prior to the meeting at which the vote is to be taken. Amendments are subject to approval by the Organization Research Group (ORG).
 
-Section 2:  Motions made at regular meetings that do not represent amendments to the Constitution or changes in the Bylaws of this Association will be considered to be passed if they receive a simple majority of votes cast by members present at the meeting.
+Section 2: Motions made at regular meetings that do not represent amendments to the Constitution or changes in the Bylaws of this Association will be considered to be passed if they receive a simple majority of votes cast by members present at the meeting.
 ### <a name="h.rnb6vfiq1fpz"></a>**By-Laws**
 ### <a name="h.pibm0vskugyp"></a>**Election Policy and Procedure**
 **Article One:**
 
-Section 1:  All officers and committee representatives must have been enrolled at MU for at least one semester before they may assume office. There is a minimum 2.2 GPA requirement for all officers on a 4.0 scale.
+Section 1: All officers and committee representatives must have been enrolled at MU for at least one semester before they may assume office. There is a minimum 2.2 GPA requirement for all officers on a 4.0 scale.
 
 Section: 2: No one may hold the office of president for more than one term unless it is discovered at the end of the nomination process that the office is not being sought by another active MCA member. At that time, the incumbent may submit her or his name for that position once again. No one may hold more than one Executive Board position in a single election cycle. One may hold more than one non-Executive Board position, though candidates are strongly encouraged to ensure that this does not cause a scheduling conflict.
 
-Section 3 : Officers will be elected each December in two rounds of voting. The first round will elect the executive board; the second will elect all other officers decided on by the executive members. Elections will happen at the last meeting of the fall semester. They will start with speeches from the members running for the highest ranking office first. Those members will then step outside and allow for voting. Once decided, this process will follow down the list of ranking officers. This will allow for someone who loses the presidency to still be allowed to run for vice presidency.  
+Section 3: Officers will be elected each December in two rounds of voting. The first round will elect the executive board; the second will elect all other officers decided on by the executive members. Elections will happen at the last meeting of the fall semester. They will start with speeches from the members running for the highest ranking office first. Those members will then step outside and allow for voting. Once decided, this process will follow down the list of ranking officers. This will allow for someone who loses the presidency to still be allowed to run for vice presidency.  
 
-Section 4:  The term of office will extend for one year, from January 1 after the election to the January 1 of the following year.
+Section 4: The term of office will extend for one year, from January 1 after the election to the January 1 of the following year.
 
-Section 5:  Vacancies in office will be filled at the meeting next ensuing after the vacancy occurs. Vacancies will be filled following the same procedure as annual elections.
+Section 5: Vacancies in office will be filled at the meeting next ensuing after the vacancy occurs. Vacancies will be filled following the same procedure as annual elections.
 
-Section 6:  All officers will be elected by plurality.
+Section 6: All officers will be elected by plurality.
 ###
 ### <a name="h.o3tafi591kf0"></a><a name="h.vnu4up3hm90m"></a>**Powers and Duties of Officers**
 **Article Two:**
@@ -121,9 +121,9 @@ Executive officers and committee representatives may be removed from office by r
 ### <a name="h.hg1q54p4lt7y"></a>**Executive Board**
 **Article Three:**
 
-Section 1:  The executive board will meet when called by the president.
+Section 1: The executive board will meet when called by the president.
 
-Section 2:  A quorum of the executive board will be a majority of the members of the executive board.
+Section 2: A quorum of the executive board will be a majority of the members of the executive board.
 ### <a name="h.9dgmse27qw4a"></a>**Advisor**
 **Article Four:**
 
@@ -140,11 +140,11 @@ Section 4: The organization must select one faculty or staff member (at least 75
 ### <a name="h.pwa3bbxydj4s"></a>**Meetings**
 **Article Five:**
 
-Section 1:  Regular meetings of the entire active membership will be held at least once a month during the fall and winter semesters on Wednesday at 6:00 pm (when this time does not conflict with scheduled faculty meetings) as designated by the president.
+Section 1: Regular meetings of the entire active membership will be held at least once a month during the fall and winter semesters on Wednesday at 6:00 pm (when this time does not conflict with scheduled faculty meetings) as designated by the president.
 
-Section 2:  Meetings of the executive board will be held at least once a month during each semester (fall, winter), as designated by the president.
+Section 2: Meetings of the executive board will be held at least once a month during each semester (fall, winter), as designated by the president.
 
-Section 3:  Emergency meetings may be called by the executive board at the request of the president.
+Section 3: Emergency meetings may be called by the executive board at the request of the president.
 ### <a name="h.fkqx8anminrk"></a>**Amendments**
 **Article Six:**
 
@@ -235,7 +235,7 @@ The money expenditures outlined here are the basis for money decisions involved 
    1. SIG Leaders are appointed solely by the SIG Director. 
    1. The structure of each SIG meeting is built by each individual SIG leader based on their own judgments. 
 1. *Whiteboards*
-   1. “Whiteboard(s)” is a general meeting focused on a different topic every week.
+   1. “Whiteboard(s)” is a general meeting focused on a different topic every week.  
    1. Whiteboards and their leaders fall under the jurisdiction of the SIG Director. 
 
 **Amendment 6: Executive Board Election Laws**

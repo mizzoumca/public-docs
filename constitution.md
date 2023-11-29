@@ -73,47 +73,43 @@ Section 6: All officers will be elected by plurality.
 ###
 ### <a name="h.o3tafi591kf0"></a><a name="h.vnu4up3hm90m"></a>**Powers and Duties of Officers**
 **Article Two:**
-### <a name="h.kunnz434j5ly"></a>**President**
-Section 1:
-
-◦The president of this organization will preside at all meetings of the organization.
-
-◦The president will act as the representative of this organization before other groups and as a liaison to the faculty.
-
-◦The president may make appointments to non-executive committees and subcommittees with the approval of the executive board. 
-### <a name="h.dm2nz3fxm61f"></a>**Vice President**
-Section 2:
-
-◦The vice-president will preside over meetings of the organization during the absence of the president.	
-
-◦The vice-president will assist the president in his or her duties as head of the organization and as its representative.
-
-◦The vice-president will assume the duties and responsibilities of the president if for any reason the president is no longer able to serve.
-
-◦The vice-president will supervise elections of MCA officers and committee representatives.
-### <a name="h.e626rke8h4af"></a>**Secretary**
-Section 3:
-
-◦The secretary will record accurate minutes of any meeting of the organization and post a copy for all interested members to read.
-
-◦The secretary will notify the organization members of meetings.
-
-◦The secretary will reserve rooms as needed for meetings and events.
-
-**Treasurer**
-
-Section 4:
-
-◦The treasurer will keep a complete record of the financial business of the organization.
-
-◦The treasurer will be responsible for the disbursement of funds necessary for the operation of the organization and its functions.
-
-◦The treasurer will present a financial report at each meeting of the organization.
-
-### <a name="h.9l1ru0o9scrb"></a>**Social Chair**
-Section 5:
-
-The social chair will arrange for all social functions of the organization in cooperation with the president and the executive board members. This chair should report plans and activities at each meeting of the organization. It is recommended that the social chair appoint two to three committee members, selected from active MCA members, to assist in the planning and hosting the events/activities offered.
+1. *President*
+   1. The President shall serve no more than one year as President of MCA unless after their term there are no challengers. 
+   1. The purpose of the President is to facilitate and coordinate the proceedings of the club and serve as the face of the organization to ORG (Organization Resource Group) and the College of Engineering. 
+   1. The President shall have the power to convene meetings of the executive board or the club at will and propose legislation to be voted on as they see fit. 
+   1. The President has one vote in proposed executive board legislation. 
+   1. The President oversees the material inventory of the club and is one of the two student names on the club bank account. 
+   1. Other positions of the executive board are given at the discretion of the President, but these members do not have official legislative votes.  
+1. *Vice President*
+   1. The Vice President shall have a maximum two-year consecutive term limit unless there are no challengers in the election. 
+   1. The Vice President shall be the facilitator between students and faculty. 
+   1. The Vice President shall have one vote on official executive board legislative votes.  
+1. *Treasurer*
+   1. The Treasurer shall have a maximum two-year consecutive term limit unless there are no challengers in the election. 
+   1. The Treasurer shall develop a club budget for the general year developed for January 1<sup>st</sup> after the elections thru December 31<sup>st</sup> of the year. 
+   1. The Treasurer shall also maintain all money trails. 
+   1. The Treasurer will be the second student name on the club bank account. 
+   1. The Treasurer has one vote on official executive board legislative votes. 
+1. *Secretary*
+   1. The Secretary shall have a maximum two-year consecutive term limit unless there are no challengers in the election. 
+   1. The Secretary shall be dedicated to intra-club communications including but not limited to general emails, club organization, scheduling, reminders, to-do lists, notetaking, and student-based questions. 
+   1. The Secretary shall act as the primary representative of the club body to the executive board. 
+   1. The Secretary has one vote on official executive board legislative votes. 
+1. *Outreach Coordinator*
+   1. The Outreach Coordinator shall have a maximum two-year consecutive term limit unless there are no challengers in the election. 
+   1. The Outreach Coordinator serves as inter-club communications including but not limited to social media, multi-club coordinated events, and general contact with other clubs for CS and EECE interest/need. 
+   1. The Outreach Director has one vote on official executive board legislative votes. 
+1. *Special Interest Group (SIG) Director*
+   1. The Special Interest Group (SIG) Director shall have a maximum two-year consecutive term limit unless there are no challengers in the election. 
+   1. The SIG Director shall be responsible for finding SIG leaders, reserving rooms and necessities for each SIG, and scheduling “Whiteboards” (weekly general club SIG covering a variety of topics). 
+   1. The SIG Director shall act as an intermediary between the executive board and SIG leaders. 
+   1. The SIG Director has one vote on official executive board legislative votes.
+1. *Large Event Coordinator* 
+   1. The Event Coordinator shall have a maximum two-year consecutive term limit unless there are no challengers in the election. 
+   1. The Large Event Coordinator shall be the person responsible for forming an event committee leadership composed of a minimum three but no more than seven chairs (see Amendment 2: Large MCA Events). No more than 2/3rds of the chairs can be executive board members. 
+   1. The Large Event Coordinator shall sit on each committee and be given one vote on each committee. 
+   1. The Large Event Coordinator shall be the face of each event to the executive board and represent the club in the event to any outside entities. 
+   1. The Large Event Coordinator has one vote on official executive board legislative votes.
 ### <a name="h.d1gqh2nsm8yb"></a>**Removal From Office**
 Section 6:
 

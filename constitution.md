@@ -105,9 +105,12 @@ Section 6: All officers will be elected by plurality.
    1. The SIG Director shall act as an intermediary between the executive board and SIG leaders. 
    1. The SIG Director has one vote on official executive board legislative votes.
 1. *Large Event Coordinator* 
+   1. Large MCA Events are constituted as events hosted by MCA that require expenditures more than $5000 or deemed appropriate by a vote from the executive board. All large events shall have a planning committee with the chairs appointed by the Large Event Coordinator. 
    1. The Event Coordinator shall have a maximum two-year consecutive term limit unless there are no challengers in the election. 
-   1. The Large Event Coordinator shall be the person responsible for forming an event committee leadership composed of a minimum three but no more than seven chairs (see Amendment 2: Large MCA Events). No more than 2/3rds of the chairs can be executive board members. 
+   1. The Large Event Coordinator shall be the person responsible for forming an event committee leadership composed of a minimum three but no more than seven chairs (see Amendment 2: Large MCA Events). No more than 2/3rds of the chairs can be executive board members.
+   1.  All planning shall be done by the appropriate committee and money shall be requested directly through the MCA Treasurer. It is highly recommended but not mandated that the MCA Treasurer serve on the planning committee. The remaining executive board members shall all serve as part of the committee and follow event orders given by the chair member they fall under. If the committee is ever in need of being represented by one person, the Large Event Coordinator shall fill that role. 
    1. The Large Event Coordinator shall sit on each committee and be given one vote on each committee. 
+   1. Any committee chair can be impeached by a majority vote of the body of the committee or by the Large Event Coordinator. The Large Event Coordinator must replace a removed chair member within the week of the removal.
    1. The Large Event Coordinator shall be the face of each event to the executive board and represent the club in the event to any outside entities. 
    1. The Large Event Coordinator has one vote on official executive board legislative votes.
 ### <a name="h.d1gqh2nsm8yb"></a>**Removal From Office**

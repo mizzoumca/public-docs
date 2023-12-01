@@ -114,15 +114,28 @@ Section 6: All officers will be elected by plurality.
    1. The Large Event Coordinator shall be the face of each event to the executive board and represent the club in the event to any outside entities. 
    1. The Large Event Coordinator has one vote on official executive board legislative votes.
 ### <a name="h.d1gqh2nsm8yb"></a>**Removal From Office**
-Section 6:
+Section 8:
 
 Executive officers and committee representatives may be removed from office by resignation, by a majority vote of the executive board, upon three unexcused absences from the regular and executive board meetings as determined by the executive board, or by a three-fourths vote of the active membership. Grounds for removal include the inadequate fulfillment of aforementioned duties or the violation of regulations described in the Guidelines for Recognized Student Organizations, University policies or any federal, state or local laws.
-### <a name="h.hg1q54p4lt7y"></a>**Executive Board**
+### <a name="h.hg1q54p4lt7y"></a>**Executive Board & Guidelines**
 **Article Three:**
 
 Section 1: The executive board will meet when called by the president.
 
 Section 2: A quorum of the executive board will be a majority of the members of the executive board.
+
+Section 3: *Money Spending Authority*
+   1. All money decisions under $250 may be decided on by the Treasurer or President alone.
+   1. All other money expenditures over $250 and not in the jurisdiction of a large event committee must be voted on and passed by a simple majority of the executive board.
+   1. In the case of a tie on a decision, the faculty advisor shall provide the deciding vote.
+   1. The active faculty advisor is responsible solely for financial transitions but maintains no oversite on the secondary Landmark Account. 
+   1. The advisor does not spend club money unless authorized by the President and Treasurer. 
+   1. After all elections take place, the advisor will meet with the President and Treasurer to discuss transitions. 
+Section 4: *Money Requests from MCA Members*
+   1. All money requests shall be filtered through the President and the Treasurer.
+   1. Before a request can be processed, the requestee must first fill out an Expected Return on Investment (RoI) form to submit with valid data. 
+   1. The data needed for a form to be filled out must be made available to each requestee by any able executive board member. 
+   1. After the form is filled out, the Treasurer and President have a maximum of 30 days to determine whether or not to approve the request. 
 ### <a name="h.9dgmse27qw4a"></a>**Advisor**
 **Article Four:**
 

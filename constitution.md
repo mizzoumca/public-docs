@@ -59,17 +59,38 @@ Section 2: Motions made at regular meetings that do not represent amendments to 
 ### <a name="h.pibm0vskugyp"></a>**Election Policy and Procedure**
 **Article One:**
 
-Section 1: All officers and committee representatives must have been enrolled at MU for at least one semester before they may assume office. There is a minimum 2.2 GPA requirement for all officers on a 4.0 scale.
+1. *Date*
+   1. Elections will be convened on the first Wednesday of December every year to elect club members to the executive board.
 
-Section: 2: No one may hold the office of president for more than one term unless it is discovered at the end of the nomination process that the office is not being sought by another active MCA member. At that time, the incumbent may submit her or his name for that position once again. No one may hold more than one Executive Board position in a single election cycle. One may hold more than one non-Executive Board position, though candidates are strongly encouraged to ensure that this does not cause a scheduling conflict.
+1. *Personal Requirements*
+   1. No one may hold more than one Executive Board position in a single election cycle. 
+   1. One may hold more than one non-Executive Board position, though candidates are strongly encouraged to ensure that this does not cause a scheduling conflict. 
 
-Section 3: Officers will be elected each December in two rounds of voting. The first round will elect the executive board; the second will elect all other officers decided on by the executive members. Elections will happen at the last meeting of the fall semester. They will start with speeches from the members running for the highest ranking office first. Those members will then step outside and allow for voting. Once decided, this process will follow down the list of ranking officers. This will allow for someone who loses the presidency to still be allowed to run for vice presidency.  
+1. *Voting Procedure*
+   1. Executive Board members will be elected in one round of voting. 
+   1. They will start with speeches from the members running for the highest ranking office first. 
+   1. Those members will then step outside and allow for voting. 
+   1. If a tie occurs, it shall be decided by the former President. 
+   1. Once decided, this process will follow down the list of ranking officers. 
+   1. This will allow for someone who loses the presidency to still be allowed to run for vice presidency. 
+   1. All executive board members shall be elected by plurality. 
+   1. The election is run by all prior members of the executive board led by the Secretary.
 
-Section 4: The term of office will extend for one year, from January 1 after the election to the January 1 of the following year.
+2. *Term Lengths*
+   1. The term of office will extend for one year, from January 1 after the election to the January 1 of the following year.
 
-Section 5: Vacancies in office will be filled at the meeting next ensuing after the vacancy occurs. Vacancies will be filled following the same procedure as annual elections.
+3. *Requirements*
+   1. All officers and committee representatives must have been enrolled at MU for at least one semester before they may assume office. 
+   2. There is a minimum 2.2 GPA requirement for all officers on a 4.0 scale for the full time they are in office.
+   3. All officers must be elected by plurality.
 
-Section 6: All officers will be elected by plurality.
+4. *Vacancies*
+   1. Vacancies in office will be filled at the meeting next ensuing after the vacancy occurs. 
+   2. Vacancies will be filled following the same procedure as annual elections. 
+   3. If the vacancy occurs while the majority of the executive board is not available on Mizzou campus, there shall be an emergency meeting of the remaining executive board and an interim shall be appointed. 
+   4. The interim shall serve in their role until a full body meeting can be held, which shall be the primary goal of the executive board. 
+
+
 ###
 ### <a name="h.o3tafi591kf0"></a><a name="h.vnu4up3hm90m"></a>**Powers and Duties of Officers**
 **Article Two:**

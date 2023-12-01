@@ -36,7 +36,7 @@ Section 1: Membership shall be open to any currently enrolled student or employe
 
 Section 2: Notice of non-discrimination: This organization shall not discriminate on the basis of race, color, religion, national origin, ancestry, age, gender, sexual orientation, gender identity, disability, or status as a disabled veteran or protected veteran.
 
-Section 3:  Any student attending the monthly organization-wide meeting will be considered a member. However, only active members who attend weekly events and are involved in at least one Special Interest Group will be allowed to vote / be voted onto the executive board, and be eligible for travel reimbursement to professional events. The MCA executive board will be voted into office by the membership as described in Article 1 of the By-laws.  
+Section 3:  Any student attending the monthly organization-wide meeting will be considered a member. The MCA executive board will be voted into office by the membership as described in Article 1 of the By-laws.  
 
 **Executive**
 
@@ -44,7 +44,7 @@ Section 3:  Any student attending the monthly organization-wide meeting will be 
 
 Section 1: The executive of MCA will be vested in a president, assisted by a vice-President.
 
-Section 2: The legislative power of MCA will be vested in the MCA executive board and the other active members.
+Section 2: The legislative power of MCA will be vested in the MCA executive board.
 
 Section 3: The executive board will consist of the president, the vice-president, the treasurer. All members after these are optional according to the discretion of the three. 
 
@@ -52,39 +52,36 @@ Section 3: The executive board will consist of the president, the vice-president
 
 **Article Five:**
 
-Section 1: Amendments to this constitution may be adopted at any regular meeting by a two-thirds vote of the MCA members present, provided that notice of the proposed amendment was presented at the previous regular meeting or that the written text of the proposed amendment was placed in members mailboxes at least a week prior to the meeting at which the vote is to be taken. Amendments are subject to approval by the Organization Research Group (ORG).
+Section 1: Changes to this constitution may be adopted at any regular meeting by a two-thirds vote of the MCA members present, provided that notice of the proposed amendment was presented at the previous regular meeting or that the written text of the proposed changes was placed in members mailboxes at least a week prior to the meeting at which the vote is to be taken. changes are subject to approval by the Organization Research Group (ORG). The constituion shall be maintained through a public github repository and all changes shall only be mmerged into the main branch with 2/3 approval
 
-Section 2: Motions made at regular meetings that do not represent amendments to the Constitution or changes in the Bylaws of this Association will be considered to be passed if they receive a simple majority of votes cast by members present at the meeting.
+Section 2: Motions made at regular meetings that do not represent changes to the Constitution or changes in the Bylaws of this Association will be considered to be passed if they receive a simple majority of votes cast by members present at the meeting.
 ### <a name="h.rnb6vfiq1fpz"></a>**By-Laws**
 ### <a name="h.pibm0vskugyp"></a>**Election Policy and Procedure**
 **Article One:**
 
-1. *Date*
-   1. Elections will be convened on the first Wednesday of December every year to elect club members to the executive board.
-
 1. *Personal Requirements*
    1. No one may hold more than one Executive Board position in a single election cycle. 
-   1. One may hold more than one non-Executive Board position, though candidates are strongly encouraged to ensure that this does not cause a scheduling conflict. 
+   2. One may hold more than one non-Executive Board position, though candidates are strongly encouraged to ensure that this does not cause a scheduling conflict. 
 
-1. *Voting Procedure*
+2. *Voting Procedure*
    1. Executive Board members will be elected in one round of voting. 
-   1. They will start with speeches from the members running for the highest ranking office first. 
-   1. Those members will then step outside and allow for voting. 
-   1. If a tie occurs, it shall be decided by the former President. 
-   1. Once decided, this process will follow down the list of ranking officers. 
-   1. This will allow for someone who loses the presidency to still be allowed to run for vice presidency. 
-   1. All executive board members shall be elected by plurality. 
-   1. The election is run by all prior members of the executive board led by the Secretary.
+   2. They will start with speeches from the members running for the highest ranking office first. 
+   3. Those members will then step outside and allow for voting. 
+   4. If a tie occurs, it shall be decided by the former President. 
+   5. Once decided, this process will follow down the list of ranking officers. 
+   6. This will allow for someone who loses the presidency to still be allowed to run for vice presidency. 
+   7. All executive board members shall be elected by plurality. 
+   8. The election is run by all prior members of the executive board led by the Secretary.
 
-2. *Term Lengths*
+3. *Term Lengths*
    1. The term of office will extend for one year, from January 1 after the election to the January 1 of the following year.
 
-3. *Requirements*
+4. *Requirements*
    1. All officers and committee representatives must have been enrolled at MU for at least one semester before they may assume office. 
    2. There is a minimum 2.2 GPA requirement for all officers on a 4.0 scale for the full time they are in office.
    3. All officers must be elected by plurality.
 
-4. *Vacancies*
+5. *Vacancies*
    1. Vacancies in office will be filled at the meeting next ensuing after the vacancy occurs. 
    2. Vacancies will be filled following the same procedure as annual elections. 
    3. If the vacancy occurs while the majority of the executive board is not available on Mizzou campus, there shall be an emergency meeting of the remaining executive board and an interim shall be appointed. 
@@ -113,27 +110,26 @@ Section 2: Motions made at regular meetings that do not represent amendments to 
    1. The Treasurer has one vote on official executive board legislative votes. 
 1. *Secretary*
    1. The Secretary shall have a maximum two-year consecutive term limit unless there are no challengers in the election. 
-   1. The Secretary shall be dedicated to intra-club communications including but not limited to general emails, club organization, scheduling, reminders, to-do lists, notetaking, and student-based questions. 
+   1. The Secretary shall be dedicated to intra-club communications including but not limited to general emails, social media posts, club organization, scheduling, reminders, to-do lists, notetaking, and student-based questions. 
    1. The Secretary shall act as the primary representative of the club body to the executive board. 
    1. The Secretary has one vote on official executive board legislative votes. 
-1. *Outreach Coordinator*
-   1. The Outreach Coordinator shall have a maximum two-year consecutive term limit unless there are no challengers in the election. 
-   1. The Outreach Coordinator serves as inter-club communications including but not limited to social media, multi-club coordinated events, and general contact with other clubs for CS and EECE interest/need. 
-   1. The Outreach Director has one vote on official executive board legislative votes. 
-1. *Special Interest Group (SIG) Director*
+1. *Outreach & Programming Coordinator*
+   1. The Outreach & Programming Coordinator shall have a maximum two-year consecutive term limit unless there are no challengers in the election. 
+   2. The Outreach & Programming Coordinator is in charge of planning small events for the organization. Outreach events may involve volunteering or community service, while programming may involve casual social events.
+   3. The Outreach & Programming Coordinator has one vote on official executive board legislative votes. 
+2. *Special Interest Group (SIG) Coordinator*
    1. The Special Interest Group (SIG) Director shall have a maximum two-year consecutive term limit unless there are no challengers in the election. 
-   1. The SIG Director shall be responsible for finding SIG leaders, reserving rooms and necessities for each SIG, and scheduling “Whiteboards” (weekly general club SIG covering a variety of topics). 
-   1. The SIG Director shall act as an intermediary between the executive board and SIG leaders. 
-   1. The SIG Director has one vote on official executive board legislative votes.
-1. *Large Event Coordinator* 
-   1. Large MCA Events are constituted as events hosted by MCA that require expenditures more than $5000 or deemed appropriate by a vote from the executive board. All large events shall have a planning committee with the chairs appointed by the Large Event Coordinator. 
-   1. The Event Coordinator shall have a maximum two-year consecutive term limit unless there are no challengers in the election. 
-   1. The Large Event Coordinator shall be the person responsible for forming an event committee leadership composed of a minimum three but no more than seven chairs (see Amendment 2: Large MCA Events). No more than 2/3rds of the chairs can be executive board members.
-   1.  All planning shall be done by the appropriate committee and money shall be requested directly through the MCA Treasurer. It is highly recommended but not mandated that the MCA Treasurer serve on the planning committee. The remaining executive board members shall all serve as part of the committee and follow event orders given by the chair member they fall under. If the committee is ever in need of being represented by one person, the Large Event Coordinator shall fill that role. 
-   1. The Large Event Coordinator shall sit on each committee and be given one vote on each committee. 
-   1. Any committee chair can be impeached by a majority vote of the body of the committee or by the Large Event Coordinator. The Large Event Coordinator must replace a removed chair member within the week of the removal.
-   1. The Large Event Coordinator shall be the face of each event to the executive board and represent the club in the event to any outside entities. 
-   1. The Large Event Coordinator has one vote on official executive board legislative votes.
+   2. The SIG Director shall be responsible for finding SIG leaders, reserving rooms and necessities for each SIG, and scheduling “Whiteboards” (weekly general club SIG covering a variety of topics). 
+   3. The SIG Director shall act as an intermediary between the executive board and SIG leaders. 
+   4. The SIG Director has one vote on official executive board legislative votes.
+3. *TigerHacks Coordinator* 
+   1. The Event Coordinator shall have a maximum one-year consecutive term limit unless there are no challengers in the election. 
+   2. The TigerHacks Coordinator shall be the person responsible for forming an event committee leadership composed of a minimum three but no more than seven chairs. No more than 2/3rds of the chairs can be executive board members.
+   3.  All planning shall be done by the appropriate committee and money shall be requested directly through the MCA Treasurer. It is highly recommended but not mandated that the MCA Treasurer serve on the planning committee. The remaining executive board members shall all serve as part of the committee and follow event orders given by the chair member they fall under. If the committee is ever in need of being represented by one person, the TigerHacks Coordinator shall fill that role. 
+   4. The TigerHacks Coordinator shall sit on each committee and be given one vote on each committee. 
+   5. Any committee chair can be impeached by a majority vote of the body of the committee or by the TigerHacks Coordinator. The TigerHacks Coordinator must replace a removed chair member within the week of the removal.
+   6. The TigerHacks Coordinator shall be the face of each event to the executive board and represent the club in the event to any outside entities. 
+   7. The TigerHacks Coordinator has one vote on official executive board legislative votes.
 ### <a name="h.d1gqh2nsm8yb"></a>**Removal From Office**
 Section 8:
 
@@ -147,17 +143,15 @@ Section 2: A quorum of the executive board will be a majority of the members of 
 
 Section 3: *Money Spending Authority*
    1. All money decisions under $250 may be decided on by the Treasurer or President alone.
-   1. All other money expenditures over $250 and not in the jurisdiction of a large event committee must be voted on and passed by a simple majority of the executive board.
-   1. In the case of a tie on a decision, the faculty advisor shall provide the deciding vote.
-   1. The active faculty advisor is responsible solely for financial transitions but maintains no oversite on the secondary Landmark Account. 
-   1. The advisor does not spend club money unless authorized by the President and Treasurer. 
-   1. After all elections take place, the advisor will meet with the President and Treasurer to discuss transitions. 
-   
+   2. All other money expenditures over $250 and not in the jurisdiction of the TigerHacks committee must be voted on and passed by a simple majority of the executive board.
+   3. In the case of a tie on a decision, the faculty advisor shall provide the deciding vote.
+   4. The advisor does not spend club money unless authorized by the President and Treasurer. 
+
 Section 4: *Money Requests from MCA Members*
    1. All money requests shall be filtered through the President and the Treasurer.
-   2. Before a request can be processed, the requestee must first fill out an Expected Return on Investment (RoI) form to submit with valid data. 
+   2. A request must include information who, what, when, where,& why.
    3. The data needed for a form to be filled out must be made available to each requestee by any able executive board member. 
-   4. After the form is filled out, the Treasurer and President have a maximum of 30 days to determine whether or not to approve the request.
+   4. The Treasurer and President have a maximum of 30 days to determine whether or not to approve the request.
    
 Section 5: Special Interest Groups:
    1. *General SIGs*
@@ -170,7 +164,7 @@ Section 5: Special Interest Groups:
 ### <a name="h.9dgmse27qw4a"></a>**Advisor**
 **Article Four:**
 
-Section 1: The current advisor for MCA is **Sean Goggins**, a full time faculty employed by the MU CS department.
+Section 1: The current advisor for MCA is **James Riess**, a full time faculty employed by the MU CS department.
 
 Section 2: The faculty advisor is to act as a liaison between student members and the MU Computer Science department, as well as associated faculty. The adviser is also to facilitate financial transparency, event planning, and inter-school communication.
 
@@ -183,137 +177,8 @@ Section 4: The organization must select one faculty or staff member (at least 75
 ### <a name="h.pwa3bbxydj4s"></a>**Meetings**
 **Article Five:**
 
-Section 1: Regular meetings of the entire active membership will be held at least once a month during the fall and winter semesters on Wednesday at 6:00 pm (when this time does not conflict with scheduled faculty meetings) as designated by the president.
+Section 1: Regular meetings of the entire active membership will be held at least once a month during the fall and winter semesters.
 
 Section 2: Meetings of the executive board will be held at least once a month during each semester (fall, winter), as designated by the president.
 
 Section 3: Emergency meetings may be called by the executive board at the request of the president.
-### <a name="h.fkqx8anminrk"></a>**Amendments**
-**Article Six:**
-
-Section 1: Any member may propose an amendment. After an amendment is proposed all members will be notified a week before the vote is to be made. An amendment will be added to the Constitution if two thirds of the member body and two thirds of the executive board vote that it should be passed. Amendments to the Constitution must be submitted to and approved by the Coordinator for Student Organizations before they become effective.
-
-Section 2: Amendments to the Constitution must be submitted to and approved by the Coordinator for Student Organizations before they become effective
-
-**Amendment 2: New Executive Board Roles**
-
-As of the adoption of this proposed amendment, the executive board for the Mizzou Computing Association, hereby known as MCA, shall consist of 7 roles ranked and outlined below overwriting Article IV Section III of the initial MCA Constitution. All standard election procedures unless otherwise specified are maintained from the Constitution:
-
-1. *President*
-   1. The President shall serve no more than one year as President of MCA unless after their term there are no challengers. 
-   1. The purpose of the President is to facilitate and coordinate the proceedings of the club and serve as the face of the organization to ORG (Organization Resource Group) and the College of Engineering. 
-   1. The President shall have the power to convene meetings of the executive board or the club at will and propose legislation to be voted on as they see fit. 
-   1. The President has one vote in proposed executive board legislation. 
-   1. The President oversees the material inventory of the club and is one of the two student names on the club bank account. 
-   1. Other positions of the executive board are given at the discretion of the President, but these members do not have official legislative votes.  
-1. *Vice President*
-   1. The Vice President shall have a maximum two-year consecutive term limit unless there are no challengers in the election. 
-   1. The Vice President shall be the facilitator between students and faculty. 
-   1. The Vice President shall have one vote on official executive board legislative votes.  
-1. *Treasurer*
-   1. The Treasurer shall have a maximum two-year consecutive term limit unless there are no challengers in the election. 
-   1. The Treasurer shall develop a club budget for the general year developed for January 1<sup>st</sup> after the elections thru December 31<sup>st</sup> of the year. 
-   1. The Treasurer shall also maintain all money trails. 
-   1. The Treasurer will be the second student name on the club bank account. 
-   1. The Treasurer has one vote on official executive board legislative votes. 
-1. *Secretary*
-   1. The Secretary shall have a maximum two-year consecutive term limit unless there are no challengers in the election. 
-   1. The Secretary shall be dedicated to intra-club communications including but not limited to general emails, club organization, scheduling, reminders, to-do lists, notetaking, and student-based questions. 
-   1. The Secretary shall act as the primary representative of the club body to the executive board. 
-   1. The Secretary has one vote on official executive board legislative votes. 
-1. *Outreach Coordinator*
-   1. The Outreach Coordinator shall have a maximum two-year consecutive term limit unless there are no challengers in the election. 
-   1. The Outreach Coordinator serves as inter-club communications including but not limited to social media, multi-club coordinated events, and general contact with other clubs for CS and EECE interest/need. 
-   1. The Outreach Director has one vote on official executive board legislative votes. 
-1. *Special Interest Group (SIG) Director*
-   1. The Special Interest Group (SIG) Director shall have a maximum two-year consecutive term limit unless there are no challengers in the election. 
-   1. The SIG Director shall be responsible for finding SIG leaders, reserving rooms and necessities for each SIG, and scheduling “Whiteboards” (weekly general club SIG covering a variety of topics). 
-   1. The SIG Director shall act as an intermediary between the executive board and SIG leaders. 
-   1. The SIG Director has one vote on official executive board legislative votes.
-1. *Large Event Coordinator* 
-   1. The Event Coordinator shall have a maximum two-year consecutive term limit unless there are no challengers in the election. 
-   1. The Large Event Coordinator shall be the person responsible for forming an event committee leadership composed of a minimum three but no more than seven chairs (see Amendment 2: Large MCA Events). No more than 2/3rds of the chairs can be executive board members. 
-   1. The Large Event Coordinator shall sit on each committee and be given one vote on each committee. 
-   1. The Large Event Coordinator shall be the face of each event to the executive board and represent the club in the event to any outside entities. 
-   1. The Large Event Coordinator has one vote on official executive board legislative votes.
-1. *General Executive Board Requirements*
-   1. All executive board members must make every possible effort to attend all executive board meetings as specified by the President. If an executive board member is unable to make a meeting, it is their responsibility to inform the President of their absence before the meeting starts.   
-
-**Amendment 3: Large MCA Events**
-
-
-
-1. *Large Event Specifications*
-   1. Large MCA Events are constituted as events hosted by MCA that require expenditures more than $5000 or deemed appropriate by a vote from the executive board. 
-   1. All large events shall have a planning committee with the chairs appointed by the Large Event Coordinator. 
-1. *Committee Outlining*
-   1. All planning shall be done by the appropriate committee and money shall be requested directly through the MCA Treasurer. It is highly recommended but not mandated that the MCA Treasurer serve on the planning committee. 
-   1. The remaining executive board members shall all serve as part of the committee and follow event orders given by the chair member they fall under. 
-   1. If the committee is ever in need of being represented by one person, the Large Event Coordinator shall fill that role. 
-1. *Removal of Committee Member*
-   1. <a name="h.gjdgxs"></a>Any committee chair can be impeached by a majority vote of the body of the committee or by the Large Event Coordinator. 
-   1. The Large Event Coordinator must replace a removed chair member within the week of the removal.
-
-**Amendment 4: Money Requests**
-
-The money expenditures outlined here are the basis for money decisions involved in the club.
-
-1. *Money Spending Authority*
-   1. All money decisions under $250 may be decided on by the Treasurer or President alone.
-   1. All other money expenditures over $250 and not in the jurisdiction of a large event committee must be voted on and passed by a simple majority of the executive board.
-   1. In the case of a tie on a decision, the faculty advisor shall provide the deciding vote.
-   1. The active faculty advisor is responsible solely for financial transitions but maintains no oversite on the secondary Landmark Account. 
-   1. The advisor does not spend club money unless authorized by the President and Treasurer. 
-   1. After all elections take place, the advisor will meet with the President and Treasurer to discuss transitions. 
-1. *Money Requests from MCA Members*
-   1. All money requests shall be filtered through the President and the Treasurer.
-   1. Before a request can be processed, the requestee must first fill out an Expected Return on Investment (RoI) form to submit with valid data. 
-   1. The data needed for a form to be filled out must be made available to each requestee by any able executive board member. 
-   1. After the form is filled out, the Treasurer and President have a maximum of 30 days to determine whether or not to approve the request. 
-
-**Amendment 5: Special Interest Groups (SIGs)**
-
-1. *General SIGs*
-   1. Special Interest Groups, hereby known as SIGs, are weekly meetings lead by one or more SIG Leaders focused on the leader’s choice of topics.
-   1. SIG Leaders are appointed solely by the SIG Director. 
-   1. The structure of each SIG meeting is built by each individual SIG leader based on their own judgments. 
-1. *Whiteboards*
-   1. “Whiteboard(s)” is a general meeting focused on a different topic every week.  
-   1. Whiteboards and their leaders fall under the jurisdiction of the SIG Director. 
-
-**Amendment 6: Executive Board Election Laws**
-
-1. *Date*
-   1. Elections will be convened on the first Wednesday of December every year to elect club members to the executive board.
-
-
-
-1. *Personal Requirements*
-   1. No one may hold more than one Executive Board position in a single election cycle. 
-   1. One may hold more than one non-Executive Board position, though candidates are strongly encouraged to ensure that this does not cause a scheduling conflict. 
-
-1. *Voting Procedure*
-   1. Executive Board members will be elected in one round of voting. 
-   1. They will start with speeches from the members running for the highest ranking office first. 
-   1. Those members will then step outside and allow for voting. 
-   1. If a tie occurs, it shall be decided by the former President. 
-   1. Once decided, this process will follow down the list of ranking officers. 
-   1. This will allow for someone who loses the presidency to still be allowed to run for vice presidency. 
-   1. All executive board members shall be elected by plurality. 
-   1. The election is run by all prior members of the executive board led by the Secretary.
-
-1. *Term Lengths*
-   1. The term of office will extend for one year, from January 1 after the election to the January 1 of the following year.
-
-1. *Requirements*
-   1. All officers and committee representatives must have been enrolled at MU for at least one semester before they may assume office. 
-   1. There is a minimum 2.2 GPA requirement for all officers on a 4.0 scale for the full time they are in office.
-
-1. *Vacancies*
-   1. Vacancies in office will be filled at the meeting next ensuing after the vacancy occurs. 
-   1. Vacancies will be filled following the same procedure as annual elections. 
-   1. If the vacancy occurs while the majority of the executive board is not available on Mizzou campus, there shall be an emergency meeting of the remaining executive board and an interim shall be appointed. 
-   1. The interim shall serve in their role until a full body meeting can be held, which shall be the primary goal of the executive board. 
-
-
-

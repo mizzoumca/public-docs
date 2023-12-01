@@ -131,11 +131,21 @@ Section 3: *Money Spending Authority*
    1. The active faculty advisor is responsible solely for financial transitions but maintains no oversite on the secondary Landmark Account. 
    1. The advisor does not spend club money unless authorized by the President and Treasurer. 
    1. After all elections take place, the advisor will meet with the President and Treasurer to discuss transitions. 
+   
 Section 4: *Money Requests from MCA Members*
    1. All money requests shall be filtered through the President and the Treasurer.
-   1. Before a request can be processed, the requestee must first fill out an Expected Return on Investment (RoI) form to submit with valid data. 
-   1. The data needed for a form to be filled out must be made available to each requestee by any able executive board member. 
-   1. After the form is filled out, the Treasurer and President have a maximum of 30 days to determine whether or not to approve the request. 
+   2. Before a request can be processed, the requestee must first fill out an Expected Return on Investment (RoI) form to submit with valid data. 
+   3. The data needed for a form to be filled out must be made available to each requestee by any able executive board member. 
+   4. After the form is filled out, the Treasurer and President have a maximum of 30 days to determine whether or not to approve the request.
+   
+Section 5: Special Interest Groups:
+   1. *General SIGs*
+      1. Special Interest Groups, hereby known as SIGs, are weekly meetings lead by one or more SIG Leaders focused on the leader’s choice of topics.
+      2. SIG Leaders are appointed solely by the SIG Director. 
+      3. The structure of each SIG meeting is built by each individual SIG leader based on their own judgments. 
+   2. *Whiteboards*
+      1. “Whiteboard(s)” is a general meeting focused on a different topic every week.  
+      2. Whiteboards and their leaders fall under the jurisdiction of the SIG Director.  
 ### <a name="h.9dgmse27qw4a"></a>**Advisor**
 **Article Four:**
 
